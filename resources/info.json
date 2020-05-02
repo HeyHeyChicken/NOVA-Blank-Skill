@@ -1,0 +1,6 @@
+{
+  "Title": "YourAppName (visible in the server skill's tab).",
+  "Description": "YourAppDescription (visible in the server skill's tab).",
+  "Wallpaper": "YourAppCoverImage (visible in the server skill's tab).",
+  "Icon": "YourAppIcon (visible in the server skill's tab)."
+}
