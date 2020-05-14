@@ -3,6 +3,9 @@
 
 **NOVA - Blank Skill** is a skill for your [NOVA](//github.com/HeyHeyChicken/NOVA) assistant.<br>
 This skill is useless, except to provide you an architecture as an example to start your skills development.
+<br>
+
+<img src="https://github.com/HeyHeyChicken/NOVA-Amberdata/blob/master/resources/github-screenshot.jpg" alt="NOVA" width="800">
 </div>
 
 <br>
