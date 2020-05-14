@@ -8,7 +8,8 @@ class Facebook extends LIBRARIES.Skill {
     const SELF = this;
 
     this.Main.Manager.addAction("Facebook.post", function(_intent, _socket){
-      // Here yu will add an action when the user want to post anything on Facebook.
+      // Here you will add an action when the user want to post anything on Facebook.
+      // You can access utterances variables like this : _intent.Variables.text
     });
   }
 }

@@ -8,7 +8,7 @@
         "Peux tu poster sur Facebook la phrase {text|0}"
       ],
       "answers": [
-        "Très bien, j'ai publié %text%."
+        "Très bien, j'ai publié : %text%."
       ]
     }
   ]
