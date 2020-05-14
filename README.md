@@ -10,4 +10,18 @@ This skill is useless, except to provide you an architecture as an example to st
 
 <br>
 
+## Installation
+
+1) Download ZIP this repository from GitHub.
+2) Go to your NOVA's server UI (the default URL is "http://localhost:8080/")
+3) Go to the "Skills" tab.
+4) Find the "Install ZIP" input and load your downloaded ZIP file.
+
+## Features
+
+- Add your skill features here.
+
+<br>
+<br>
+
 Created by [Antoine Duval (HeyHeyChicken)](//antoine.cuffel.fr) with ❤ and ☕ (chocolate) in [Déville-lès-Rouen](//en.wikipedia.org/wiki/Déville-lès-Rouen).
