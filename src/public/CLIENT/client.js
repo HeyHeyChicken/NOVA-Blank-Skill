@@ -16,4 +16,4 @@ class Client {
     }
 }
 
-new Client(_main);
+module.exports = Client;
