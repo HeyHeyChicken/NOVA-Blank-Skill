@@ -12,7 +12,7 @@ This skill is useless, except to provide you an architecture as an example to st
 
 ## Installation
 
-1) Go to your NOVA's server UI (the default URL is "http://localhost:8080/")
+1) Go to your NOVA's server UI (the default URL is "http://localhost:8083/")
 2) Go to the "Skills" tab.
 3) Find the "Install from GitHub" input, paste your GitHub skill's URL, and click install.
 
